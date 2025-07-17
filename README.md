@@ -22,7 +22,9 @@ I'm a professional WordPress Website design & developer with over 4 years of exp
 [<img
 src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" height='40'>](www.facebook.com/romjanaliraja) 
 [<img
-src='https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda' alt='instagram' height='40'>](https://www.instagram.com/rajaali7766vision) 
+src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b' alt='instagram' height='40'>](https://www.instagram.com/rajaali7766vision) 
+[<img
+src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b' alt='instagram' height='40'>](https://www.instagram.com/rajaali7766vision) 
 
 
 

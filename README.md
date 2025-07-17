@@ -29,7 +29,7 @@ src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d1352
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/romjanali5756r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romjanali5756r/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/romjanaliraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/romjanaliraja" height="30" width="40" /></a>
+<a href="https://www.facebook.com/romjanaliraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/romjanaliraja" height="30" width="40" /></a>
 <a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
 </p>
 

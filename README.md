@@ -30,7 +30,7 @@ src='https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d1352
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/romjanali5756r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romjanali5756r/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/romjanaliraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/romjanaliraja" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
+<a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
 </p>
 
 <img width="73" height="72" alt="image" src="https://github.com/user-attachments/assets/fa9e529a-dbe9-4883-89a5-76f6e2f2a294" />

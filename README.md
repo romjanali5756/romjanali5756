@@ -33,5 +33,7 @@ src='https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e0
 <a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
 </p>
 
-<img width="73" height="72" alt="image" src="https://github.com/user-attachments/assets/fa9e529a-dbe9-4883-89a5-76f6e2f2a294" />
-<img width="73" height="72" alt="facebook" src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" />
+
+<img width="72" height="72" alt="instagram" src="https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b" />
+<img width="72" height="72" alt="linkedin" src="https://github.com/user-attachments/assets/0ca92035-0d36-42ed-8668-80ed1177ff29" />
+

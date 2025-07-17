@@ -1,8 +1,6 @@
-<# align="center" Hi, I'm Romjan Ali 👋>
-<h1 align="center">Hi, I'm Romjan Ali 👋<br> <h3 WordPress Website design & developer>
+<h1 align="center">Hi,👋 <br> I'm Romjan Ali 
+  
 <h3 align="center">WordPress Website design & developer</h3>
-
-### WordPress Website design & developer
 
 ![WordPress Website design & developer](https://media.licdn.com/dms/image/v2/D5616AQEggNjtsRMGpQ/profile-displaybackgroundimage-shrink_350_1400/B56ZfjMp2xGQAY-/0/1751863436040?e=1758153600&v=beta&t=c5ELb80bGKNurkw5pWnEmjwmdSR5N0L4Q7jer_WV6E8)
 

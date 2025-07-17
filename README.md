@@ -24,7 +24,7 @@ src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e0
 [<img
 src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b' alt='instagram' height='40'>](https://www.instagram.com/rajaali7766vision) 
 [<img
-src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b' alt='instagram' height='40'>](https://www.linkedin.com/in/romjanali5756r/) 
+src='https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f' alt='instagram' height='40'>](https://www.linkedin.com/in/romjanali5756r/) 
 
 
 
@@ -35,7 +35,4 @@ src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632c
 <a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
 </p>
 
-
-<img width="72" height="72" alt="instagram" src="https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b" />
-<img width="72" height="72" alt="linkedin" src="https://github.com/user-attachments/assets/0ca92035-0d36-42ed-8668-80ed1177ff29" />
-
+<img width="72" height="72" alt="linkedin" src="https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f" />

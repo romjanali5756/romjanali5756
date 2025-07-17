@@ -26,13 +26,3 @@ src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632c
 [<img
 src='https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f' alt='instagram' height='40'>](https://www.linkedin.com/in/romjanali5756r/) 
 
-
-
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/romjanali5756r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/romjanali5756r/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/romjanaliraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/romjanaliraja" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/rajaali7766vision" target="blank"><img align="center" src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e00cda" alt="www.instagram.com/rajaali7766vision" height="30" width="40" /></a>
-</p>
-
-<img width="72" height="72" alt="linkedin" src="https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f" />

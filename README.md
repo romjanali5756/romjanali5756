@@ -26,4 +26,3 @@ src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632c
 [<img
 src='https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f' alt='instagram' height='40'>](https://www.linkedin.com/in/romjanali5756r/) 
 
-<img width="2000" height="580" alt="MD Romjan Ali Raja" src="https://github.com/user-attachments/assets/31f60220-fdf3-4900-aadf-6d4218faa25e" />

@@ -25,6 +25,3 @@ src="https://github.com/user-attachments/assets/321fafc3-604e-423b-ba7a-6051b0e0
 src='https://github.com/user-attachments/assets/46d28c6e-bd4d-4add-8b20-f880632cc49b' alt='instagram' height='40'>](https://www.instagram.com/rajaali7766vision) 
 [<img
 src='https://github.com/user-attachments/assets/b0d7f6ad-4747-4e5c-a13b-37e71d6b845f' alt='instagram' height='40'>](https://www.linkedin.com/in/romjanali5756r/) 
-
-
-<img width="2000" height="580" alt="MD Romjan Ali Raja" src="https://github.com/user-attachments/assets/97e0634d-23fd-421d-9f0a-716a4c9cf170" />
